@@ -1,4 +1,4 @@
-a#include "lists.h"
+#include "lists.h"
 #include <stdio.h>
 /**
  * add_node - check the code

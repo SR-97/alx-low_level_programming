@@ -1,4 +1,4 @@
-a#include "lists.h"
+#include "lists.h"
 #include <stdio.h>
 /**
  * free_list - check the code
