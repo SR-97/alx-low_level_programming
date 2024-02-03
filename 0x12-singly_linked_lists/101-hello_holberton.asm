@@ -1,4 +1,4 @@
-section .data
+asection .data
     msg db "Hello, Holberton", 10
     len equ $ - msg + 1
 
